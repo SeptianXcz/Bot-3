@@ -10,14 +10,14 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['6285174306183', 'NANS OFFC', true],
-  ['6285174306183'], 
-  ['6285174306183'],
-  ['6285880029379']
+  ['48459088950', 'Ryuhei-', true],
+  ['48459088950'], 
+  ['48459088950'],
+  ['628978613993']
 ] // Nomor Owner
 
-global.mods = ['6285174306183'] 
-global.prems = ['6285174306183', '6285174306183', '6285174306183']
+global.mods = ['48459088950'] 
+global.prems = ['48459088950', '48459088950', '628978613993']
 
 // Harus di isi
 global.lann = 'isi_dulu' // https://api.betabotz.org
@@ -44,19 +44,19 @@ global.APIKeys = { // APIKey Here
 }
 
 // Watermark
-global.nama = 'NANS OFFC' // nama owner
-global.nomor = '6285880029379' // nomor owner
-global.nans = 'NANS OFFC' // nama bot 
+global.nama = 'Ryúheii-' // nama owner
+global.nomor = '48459088950' // nomor owner
+global.nans = 'Ryúheii-' // nama bot 
 global.thumb = 'https://i.ibb.co/w4KjD1z/20230813-230848.jpg' // thumbnail bot ( foto menu )
-global.dygp = 'https://chat.whatsapp.com/KLbE1i5U4y9I0OVli5jcKM' // link group yang ada di menu
+global.dygp = '-' // link group yang ada di menu
 
 // Sticker wm
-global.packname = 'NERO MD┃ᴮᴼᵀ' 
-global.author = '@nansoffc' 
-global.fgig = '▢ Ikuti saya di Instagram \nhttps://www.instagram.com/nansoffc\n'
-global.fgsc = 'https://github.com/nanzone' 
-global.fgyt = 'https://nansoffc.my.id/'
-global.fgpyp = 'https://saweria.co/nansofficial'
+global.packname = 'Ryvheii' 
+global.author = '@Ryúheii' 
+global.fgig = '▢ Ikuti saya di Instagram \nhttps://www.instagram.com/sptnhdnta\n'
+global.fgsc = 'https://github.com/SeptianXcz' 
+global.fgyt = '-'
+global.fgpyp = '-'
 global.fglog = 'https://i.ibb.co/Csp01NQ/nero-thumbnail.jpg'
 
 global.wait = '*⌛ _Loading..._*\n*▰▰▰▱▱▱▱▱*'
